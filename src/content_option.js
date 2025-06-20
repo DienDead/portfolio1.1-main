@@ -13,7 +13,7 @@ const introdata = {
         second: "I code to build websites",
         third: "I develop Database & API based web applications",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Development is not just a job. Its an art of creating stuff out of the box.",
     your_img_url: "https://i.postimg.cc/MTzSYGbf/AM.jpg",
 };
 
@@ -105,9 +105,9 @@ const contactConfig = {
     description: "For any project ideas feel free to contact I am open to freelancing as well.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_68x0wfk",
+    YOUR_SERVICE_ID: "service_dzkfd7q",
     YOUR_TEMPLATE_ID: "template_ajtssqq",
-    YOUR_USER_ID: "",
+    PUBLIC_KEY: "m4FPBI2DGJw8oqR_O",
 };
 
 const socialprofils = {
